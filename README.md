@@ -3,6 +3,8 @@ w pliku requirements.text  znajdują się biblioteki do głownego pliku pythonow
 
 użyj komendy ```pip install -r requirements.txt ```
 
+W sekcji data projektu jest cocktail_processed.json czyli przetworzony juz zbiór danych
+
 Przebieg zadania
 
 Projekt jest podzielony na przetwarzane kolumny
@@ -23,5 +25,4 @@ i oznaczamy 0 albo 1.Na koniec wyszukujemy miary i konwertujemy je na ml.Wylicza
 
 
 W projekcie są 2 notebooki jeden od wizualizacji danych początkowych a drugi od klasteryzacji i ewaluacji jej wynikow. Klasteryzacje została wykonana za pomocą K-means bo dawał najlepsze rezultaty 
-
 
