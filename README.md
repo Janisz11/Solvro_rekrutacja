@@ -3,7 +3,7 @@ w pliku requirements.text  znajdują się biblioteki do głownego pliku pythonow
 
 użyj komendy ```pip install -r requirements.txt ```
 
-W sekcji data projektu jest cocktail_processed.json czyli przetworzony juz zbiór danych
+W sekcji data projektu jest cocktail_processed.xls czyli przetworzony juz zbiór danych 
 
 Przebieg zadania
 
